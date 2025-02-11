@@ -1,0 +1,16 @@
+{
+  "name": "best-buy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "keywords": [],
+  "author": "senpai0807",
+  "license": "ISC",
+  "description": "A git repo for best buy related encryptions for the checkout/login process",
+  "dependencies": {
+    "node-forge": "^1.3.1"
+  }
+}
